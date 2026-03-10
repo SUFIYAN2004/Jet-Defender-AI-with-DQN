@@ -30,7 +30,7 @@ cd Jet-Defender-AI-with-DQN
 **2. Install dependencies:**
 Make sure you have Python installed, then run:
 
-```bash
+```
 pip install -r requirements.txt
 
 ```

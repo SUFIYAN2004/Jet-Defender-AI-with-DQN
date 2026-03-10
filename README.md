@@ -17,11 +17,12 @@ The Reinforcement Learning agent evaluates the game state at 60 Frames Per Secon
 * **State Space (Inputs):** The AI "sees" 6 normalized values: Base X, Closest Jet X, Closest Jet Y, Closest Incoming Laser X, Closest Incoming Laser Y, and Weapon Cooldown Status.
 * **Neural Network Architecture:** Two hidden dense layers (128 neurons each) with ReLU activation and Dropout for noise resilience.
 * **Action Space (Outputs):** The network predicts the optimal Q-Value for 4 distinct actions: `[0: Idle, 1: Move Left, 2: Move Right, 3: Fire Missile]`.
+```
 
 ## 🛠️ How to Run Locally
 
 **1. Clone the repository:**
-```
+```bash
 git clone https://github.com/SUFIYAN2004/Jet-Defender-AI-with-DQN.git
 cd Jet-Defender-AI-with-DQN
 

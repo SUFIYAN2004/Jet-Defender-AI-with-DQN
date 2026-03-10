@@ -22,8 +22,7 @@ The Reinforcement Learning agent evaluates the game state at 60 Frames Per Secon
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/YOUR_USERNAME/Jet-Defender-AI-with-DQN.git](https://github.com/YOUR_USERNAME/Jet-Defender-AI-with-DQN.git)
-cd Jet-Defender-AI-with-DQN
+git clone https://github.com/SUFIYAN2004/Jet-Defender-AI-with-DQN.git
 
 ```
 
